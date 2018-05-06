@@ -1,0 +1,30 @@
+{
+  "name": "mqueue",
+  "version": "1.0.0",
+  "description": "Javascript message queue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanhlam2410/node-mqueue.git"
+  },
+  "keywords": [
+    "advance",
+    "message",
+    "queue",
+    "protocol"
+  ],
+  "author": "missinglttt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanhlam2410/node-mqueue/issues"
+  },
+  "homepage": "https://github.com/thanhlam2410/node-mqueue#readme",
+  "dependencies": {
+    "lokijs": "^1.5.3",
+    "socket.io": "^2.1.0",
+    "socket.io-client": "^2.1.0"
+  }
+}
